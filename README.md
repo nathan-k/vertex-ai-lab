@@ -1,9 +1,9 @@
 # vertex-ai-lab
 
 ## Jupyter Notebooks
-[Exploratory Data Analysis](https://github.com/nathan-k/vertex-ai-lab/blob/main/notebooks/Exploratory%20Data%20Analysis.html)
+[Exploratory Data Analysis](https://nathan-k.github.io/vertex-ai-lab/notebooks/Exploratory%20Data%20Analysis.html)
 
-[Environment](https://github.com/nathan-k/vertex-ai-lab/blob/main/notebooks/Exploratory%20Data%20Analysis.html)
+[Environment](https://nathan-k.github.io/vertex-ai-lab/notebooks/Setup.html)
 
 
 ## Data sources
